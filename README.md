@@ -1,0 +1,3 @@
+# Simple-Modal
+Simple and flexible jquery modal plugin
+...
